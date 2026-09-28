@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MaintaninItApplication<maintaninIt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "machine.maintaninIt.MaintaninItApplication",
+            "projectName": "maintaninIt",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
